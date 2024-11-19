@@ -1,6 +1,4 @@
-# Task-Register-Project
-
-A register that allows users to log in, add, edit, and view their own or all users' tasks.
+# Task-Manager-Project
 
 ---
 
@@ -29,14 +27,13 @@ The **Task Manager** project provides a command-line interface for managing task
 
 ## **Setup Instructions**
 
-1. **Download the Project Folder**:
-   - Download and unzip the `student register project` folder.
+1. **Download the file**:
+   - Download the 'task_manager.py' file.
 
 2. **Open in an IDE**:
    - Use an Integrated Development Environment (IDE) like PyCharm or Visual Studio Code to view and edit the code.
 
 3. **Run the Program**:
-   - Open the `task_manager.py` file in your IDE.
    - Run the file using the IDE’s terminal or Python interpreter.
 
 ---
