@@ -4,7 +4,7 @@
 
 ## **Project Description**
 
-The **Task Record Manager** project provides a command-line interface for managing tasks. Users can register, log in, and interact with tasks by performing actions such as adding, viewing, editing, and marking them as complete.
+The **Task Records Manager** project provides a command-line interface for managing tasks. Users can register, log in, and interact with tasks by performing actions such as adding, viewing, editing, and marking them as complete.
 
 ---
 
